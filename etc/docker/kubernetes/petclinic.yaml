@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
       -
-        image: secobau/petclinic:0.5
+        image: secobau/petclinic:latest
         name: petclinic
 ---
 apiVersion: v1
