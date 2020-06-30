@@ -40,7 +40,7 @@ metadata:
   name: petclinic
   namespace: santander-dev-a
 spec:
-  host: petclinic-san-dev-a.apps.openshift.sebastian-colomar.com
+  host: petclinic-san-dev-a.apps.openshift.sebastian-colomar.es
   to:
     kind: Service
     name: petclinic
